@@ -89,7 +89,7 @@
     "lint-and-fix": "eslint . --ext .ts --fix"
   },
   "engines": {
-    "node": "12.18.x"
+    "node": "18.x"
   },
-  "author": "Mubarak Aminu"
+  "author": "The Wizard of Hahz"
 }
